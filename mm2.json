@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "title": "ايم بوت",
+        "description": "جامد",
+        "scriptText": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/Script\", true))()"
+    },
+    {
+        "id": "2",
+        "title": "عربي و انجليزي",
+        "description": "بدون مشاكل",
+        "scriptText": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2\"))()"
+    },
+    {
+        "id": "3",
+        "title": "Mm2",
+        "description": "رايق فشخ",
+        "scriptText": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2\")(\"https://t.me/arceusxscripts\")"
+    },
+    {
+        "id": "4",
+        "title": "سكربت كويس",
+        "description": "جرب و ادعي عليا",
+        "scriptText": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/Loader.lua\"))()"
+    }
+]

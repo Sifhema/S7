@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "title": "سكربت ميراج",
+        "description": "سكربت ميراج ",
+        "scriptText": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ZoiIntra/Dec/main/mystichub'))()"
+    },
+    {
+        "id": "2",
+        "title": "سكربت يزيد فريماتك",
+        "description": "Fps",
+        "scriptText": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/FPSBooster.lua\"))()"
+    },
+    {
+        "id": "3",
+        "title": "سكربت هوهو",
+        "description": "اقوي سكربت",
+        "scriptText": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI\"))()"
+    },
+    {
+        "id": "4",
+        "title": "سكربت سبيد",
+        "description": "سكربت بيولع",
+        "scriptText": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ahmadsgamer2/Speed-Hub-X/main/SpeedHubX\"))()"
+    }
+]

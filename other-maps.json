@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "title": "كل مابات ",
+        "description": "سكربت كل المابات   رحمه +تطير ناس +مشيات+مترجم+خواص للاعب",
+        "scriptText": "loadstring(game:HttpGet(\"https:/raw.githubusercontent.com/HHLKDEVHACKER/Scripts/main/GuiSounds.lua\"))()"
+    },
+    {
+        "id": "2",
+        "title": "Race Clicker",
+        "description": "No",
+        "scriptText": "loadstring(game:HttpGet('https://pastebin.com/raw/HecAyid9'))()\n\n"
+    },
+    {
+        "id": "Pets go",
+        "title": "Pets go",
+        "description": "No",
+        "scriptText": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KaanOnly/Petsgp1/refs/heads/main/GoPetsv1\"))()"
+    },
+    {
+        "id": "Arcner",
+        "title": "Arsenal",
+        "description": "No",
+        "scriptText": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHubArsenal\"))()"
+    },
+    {
+        "id": "Talent Show",
+        "title": "Talent Show ",
+        "description": "سكربت ماب Talent Show ",
+        "scriptText": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/hamooodii/WEIROWIER/main/werwer\"))()"
+    },
+    {
+        "id": "Wear",
+        "title": "حرب الاسرة",
+        "description": "ولا شي",
+        "scriptText": "https://raw.githubusercontent.com/Ndora1/Ndora1/main/Aumhhub.lua'))()"
+    },
+    {
+        "id": "Wrtyc",
+        "title": "ورا تايكون",
+        "description": "King",
+        "scriptText": "loadstring(game:HttpGet(‘https://raw.githubusercontent.com/ToraScript/Script/main/HUNTWar’))()"
+    },
+    {
+        "id": "67",
+        "title": "سكربت فيه كل شي",
+        "description": "Wow",
+        "scriptText": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GamerScripter/Game-Hub/main/loader\"))()"
+    }
+]

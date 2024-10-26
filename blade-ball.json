@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "title": "سكربت فخم",
+        "description": "لا يوجد",
+        "scriptText": "loadstring(game:HttpGet('https://raw.githubusercontent.com/SumitScripts/Blade"
+    },
+    {
+        "id": "2",
+        "title": "بلاد بول عالمي",
+        "description": "جامد",
+        "scriptText": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/luascriptsROBLOX/BladeBallXera/main/XeraUltron\"))()"
+    },
+    {
+        "id": "3",
+        "title": "صيد تلقائي",
+        "description": "حلو و لذيذ",
+        "scriptText": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/a5945467f3b9388503ca653c0ea49cba.lua\"))()"
+    },
+    {
+        "id": "4",
+        "title": "بليد بول",
+        "description": "كل شي تحلم بيه",
+        "scriptText": "loadstring(game:HttpGet((\"https://raw.githubusercontent.com/Kozukiremboukk/Aqui-mesml/main/blades\")))()"
+    }
+]
